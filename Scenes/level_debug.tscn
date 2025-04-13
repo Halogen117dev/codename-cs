@@ -48,7 +48,7 @@ shadow_enabled = true
 environment = SubResource("Environment_jbhlq")
 
 [node name="PlayerController" parent="." instance=ExtResource("2_jbhlq")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.399881, 1.86912, 7.98593)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.47885, 1.86912, -0.714285)
 
 [node name="Meshes" type="Node3D" parent="."]
 
